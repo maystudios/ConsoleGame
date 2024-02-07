@@ -1,6 +1,3 @@
-Sure, I can help you with that. Here's an updated README file with a project structure, working explanation, and a table of contents.
-
-```markdown
 # Console Game
 
 This is a text-based adventure game developed in Java. The game features a player character who can move around a map, interact with entities, and engage in combat with bosses.
@@ -119,5 +116,3 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 - Inspiration
 - etc.
 ```
-
-This updated README file provides a detailed explanation of the project structure and how the game works. It also includes a table of contents for easy navigation.
